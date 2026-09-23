@@ -48,10 +48,10 @@ marketing-portfolio/
 
 ## 페이지와 기능
 
-- Home: 포지셔닝, 주요 사례, 단계 선택형 퍼널.
+- Home: 이름·직무·경력·연락처, 근거 미리보기를 담은 대표 사례, 경력 요약.
 - About: 일하는 방식, Paid Media / Analytics / Measurement Review / Market Research 역량.
-- Projects: 3개 사례와 상세 페이지. 모든 상세는 Overview, Problem, Goal, My Role, Analysis, Action, Result, Insight 구성.
-- Resume: 경험 요약. `인쇄 / PDF 저장` 버튼으로 브라우저 인쇄 창을 열고 PDF로 저장할 수 있습니다. 미리 생성된 PDF 파일은 포함하지 않습니다.
+- Projects: 기간·역할·산출물 비교 목록과 3개 상세 페이지. 모든 상세는 Overview, Problem, Goal, My Role, Analysis, Action, Result, Insight 구성.
+- Resume: 소개 → 마케팅 경력 → 대표 사례 → 이전 경력 → 역량 순서의 이력 요약. `인쇄 / PDF 저장` 버튼으로 브라우저 인쇄 창을 열고 PDF로 저장할 수 있습니다. 미리 생성된 PDF 파일은 포함하지 않습니다.
 - 반응형 화면, 키보드 포커스, 본문 건너뛰기, 동작 줄이기 설정, 외부 폰트·분석 추적 없는 구성.
 
 ## 수정할 곳
@@ -108,3 +108,7 @@ GitHub Settings → Pages에서 Source는 Deploy from a branch, Branch는 main /
 ## 검증
 
 `npm run check`는 7개 HTML의 내부 경로·앵커, 페이지별 h1, 3개 사례의 필수 항목을 검사합니다. 실제 공개 배포의 성공 여부는 GitHub Actions와 공개 URL에서 별도로 확인해야 합니다.
+
+## 채용 검토를 위한 정보 배치
+
+홈의 큰 개념 도식을 제거하고 실제 산출물의 요약을 배치했습니다. 각 상세 페이지는 문제·판단과 행동·확인된 결과, 작업 근거, 기존 8개 수행 과정 순서입니다. 퍼널 인터랙션은 광고 분석 상세의 펼침 영역으로 이동했습니다. 실제 캡처가 아닌 원본 요약 자료임을 표시합니다. PDF는 이력서 페이지의 인쇄 기능으로 저장하며 별도 PDF 다운로드 파일은 제공하지 않습니다.
