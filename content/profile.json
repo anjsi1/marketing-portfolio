@@ -1,0 +1,54 @@
+{
+  "name": "박상연",
+  "englishName": "PARK SANGYEON",
+  "role": "Performance Marketer",
+  "email": "sanganjsi1@naver.com",
+  "github": "https://github.com/anjsi1/marketing-portfolio",
+  "anonymous": true,
+  "showReportedMetrics": false,
+  "updated": "2026.09",
+  "summary": "광고 설정과 운영, 데이터 분석·보고를 직접 담당하고 예산 조정안을 제안했습니다. 의료시장·경쟁사 조사 경험과 AI를 활용한 GTM 전환 중복 차단 실행·검토 경험을 바탕으로, 데이터를 광고 운영의 판단 근거로 연결합니다.",
+  "experience": [
+    {
+      "company": "디지털 마케팅 대행사",
+      "period": "2026.07 — 2026.09",
+      "role": "퍼포먼스 마케터",
+      "description": "광고 설정·운영, 데이터 분석 및 보고서 작성, 예산 조정 제안, 의료시장·경쟁사 조사."
+    },
+    {
+      "company": "패션 리테일 브랜드",
+      "period": "2024.04 — 2025.11",
+      "role": "CA 슈퍼바이저",
+      "description": "고객 접점에서의 경험을 가진 이전 경력입니다."
+    },
+    {
+      "company": "부동산 중개업",
+      "period": "2022.07 — 2024.04",
+      "role": "중개보조원",
+      "description": "부동산 중개 현장 경험을 가진 이전 경력입니다."
+    }
+  ],
+  "education": [],
+  "skills": [
+    {
+      "title": "Paid Media",
+      "tools": "Google Ads · Meta Ads · Naver Ads",
+      "description": "광고 설정과 운영을 담당하고, 데이터를 바탕으로 예산 조정안을 제안합니다."
+    },
+    {
+      "title": "Analytics & Reporting",
+      "tools": "GA4 · Excel / Google Sheets",
+      "description": "매체별 지표를 분석하고 보고서로 정리합니다. 플랫폼 전환과 사이트 행동의 정의를 구분합니다."
+    },
+    {
+      "title": "Measurement Review",
+      "tools": "GTM · AI-assisted workflow",
+      "description": "AI를 활용해 전환 중복 차단을 실행하고 수정 내용을 검토합니다."
+    },
+    {
+      "title": "Market Research",
+      "tools": "시장조사 · 경쟁사 비교 · 보고서 작성",
+      "description": "의료시장·경쟁사 조사를 직접 수행하고 마케팅 검토 과제로 연결합니다."
+    }
+  ]
+}
